@@ -13,3 +13,4 @@ dependencies:
   - ipysheet
   - ipywidgets
   - voila
+  - jupyter_contrib_nbextensions
